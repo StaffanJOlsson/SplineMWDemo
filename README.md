@@ -10,7 +10,7 @@ Demo project for the **Spline Motion Warping** plugin for Unreal Engine 5.6+.
 ## Setup
 
 1. Clone this repository
-2. Install the Spline Motion Warping plugin into the `Plugins/` folder
+2. Create a `Plugins/` folder and install the Spline Motion Warping plugin into it
 3. Right-click `SplineMWDemo.uproject` → Generate Visual Studio project files
 4. Build the project from source (Build → Build Solution in VS, or use UnrealBuildTool)
 5. Open the project in Unreal Engine
