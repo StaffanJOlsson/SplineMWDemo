@@ -1,0 +1,22 @@
+# Unreal Engine generated
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Plugin folder - not included (requires separate installation)
+Plugins/
+
+# Visual Studio / Rider
+*.sln
+*.suo
+*.sdf
+*.opensdf
+*.user
+*.DotSettings.user
+.vs/
+.idea/
+
+# OS
+Thumbs.db
+.DS_Store
