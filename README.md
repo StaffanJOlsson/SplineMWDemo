@@ -2,7 +2,7 @@
 
 Demo project for the **Spline Motion Warping** plugin for Unreal Engine 5.6+.
 
-📖 [Full Documentation](https://github.com/StaffanJOlsson/SplineMotionWarping-docs) | 🎬 [Tutorial](https://youtu.be/5JiHij93gV4)
+🛒 [Get it on Fab](https://www.fab.com/portal/listings/13abea64-26ff-4e61-b731-0b389d2e5738) | 📖 [Full Documentation](https://github.com/StaffanJOlsson/SplineMotionWarping-docs) | 🎬 [Tutorial](https://youtu.be/5JiHij93gV4)
 
 ## Requirements
 
