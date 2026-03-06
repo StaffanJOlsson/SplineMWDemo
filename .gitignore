@@ -8,6 +8,7 @@ Saved/
 Plugins/
 
 # Visual Studio / Rider
+*.vsconfig
 *.sln
 *.suo
 *.sdf
